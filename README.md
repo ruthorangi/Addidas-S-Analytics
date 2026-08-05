@@ -31,6 +31,9 @@ Adidas_US_Sales.xlsx
 
 README.md
 
+Dashboard sreenshots
+Adidas US sales screenshot
+
 Author;
 Ruth Orangi
 
