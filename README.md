@@ -26,11 +26,12 @@ Assessed profitability using operating margin and total profit metrics to suppor
 Repository Contents
 
 Adidas sales Dashboard.pbix
+
 Adidas_US_Sales.xlsx
+
 README.md
 
 Author
-
 Ruth Orangi
 
 Data Analyst/Business Intelligence/Power BI/SQL/Excel
