@@ -24,10 +24,13 @@ Assessed profitability using operating margin and total profit metrics to suppor
 
 <img width="1246" height="563" alt="Adidas US sales dataset" src="https://github.com/user-attachments/assets/b3b23e01-fdf7-4c2b-a8c2-3052b8507e2d" />
 Repository Contents
+
 Adidas sales Dashboard.pbix
 Adidas_US_Sales.xlsx
 README.md
+
 Author
+
 Ruth Orangi
 
 Data Analyst/Business Intelligence/Power BI/SQL/Excel
