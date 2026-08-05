@@ -31,7 +31,7 @@ Adidas_US_Sales.xlsx
 
 README.md
 
-Author
+Author;
 Ruth Orangi
 
 Data Analyst/Business Intelligence/Power BI/SQL/Excel
