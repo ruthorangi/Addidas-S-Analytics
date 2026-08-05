@@ -1,6 +1,6 @@
 # Adidas-S-Analytics
 # Project Overview
-The findings in this project analyzes the Sales performance of Adidas across the United States. The interactive Power BI dashboard provides insights into revenue, profitability, product performance and regional sales trends, enabling data-driven business decisions through dynamic filtering by region and time. 
+The findings in this project analyzes the Sales performance of Adidas across the United States and the interactive Power BI dashboard provides insights into revenue, profitability, product performance and regional sales trends, enabling data-driven business decisions through dynamic filtering by region and time. 
 # Business Problem
 To best understand performance and the business, most retail organizations delve into understanding sales performance across products, regions, and retailers to identify growth opportunities and improve profitability. This dashboard helps answer key business questions such as:
 Which regions generate the highest sales?
